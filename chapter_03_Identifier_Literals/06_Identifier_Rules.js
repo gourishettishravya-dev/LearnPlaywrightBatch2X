@@ -1,0 +1,9 @@
+var $=20;
+var _a=3;
+var t=2;
+var abc123=10;
+//var 123=123;
+var name="John";
+var Name="Doe";
+var first_name="Alice";
+var first$name="Bob";
