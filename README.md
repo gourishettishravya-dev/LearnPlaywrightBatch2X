@@ -9,7 +9,10 @@ A structured JavaScript fundamentals course — the prerequisite for learning Pl
 | 01 | JavaScript Basics — Hello World, process object, functions, loops | 3 |
 | 02 | JavaScript Concepts — Variable declaration (`var`) | 1 |
 | 03 | Identifiers & Literals — Naming rules, conventions, comments, VS Code shortcuts | 4 |
+| 04 | JavaScript Concepts — var/let/const, functions, hoisting, scope | 12 |
 | 06 | Operators — Ternary, pre/post increment, advanced increment | 5 |
+| 07 | If/Else — Conditionals and interview-style problems | 10 |
+| 11 | Arrays — Iteration and transformation | 2 |
 
 ## How to Run
 
