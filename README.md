@@ -12,7 +12,10 @@ A structured JavaScript fundamentals course — the prerequisite for learning Pl
 | 04 | JavaScript Concepts — var/let/const, functions, hoisting, scope | 12 |
 | 06 | Operators — Ternary, pre/post increment, advanced increment | 5 |
 | 07 | If/Else — Conditionals and interview-style problems | 10 |
-| 11 | Arrays — Iteration and transformation | 2 |
+| 08 | Switch Statement — Cases, break, default, grouping | 9 |
+| 09 | User Input — Node readline, prompt-sync | 3 |
+| 10 | Loops — For, while, do-while, for...of/in, forEach | 12 |
+| 11 | Arrays — Iteration and transformation | 9 |
 
 ## How to Run
 
