@@ -6,16 +6,17 @@ A structured JavaScript fundamentals course — the prerequisite for learning Pl
 
 | Chapter | Topic | Files |
 |---------|-------|-------|
-| 01 | JavaScript Basics — Hello World, process object, functions, loops | 3 |
+| 01 | JavaScript Basics — Hello World, process object, commands, hot code | 4 |
 | 02 | JavaScript Concepts — Variable declaration (`var`) | 1 |
 | 03 | Identifiers & Literals — Naming rules, conventions, comments, VS Code shortcuts | 4 |
-| 04 | JavaScript Concepts — var/let/const, functions, hoisting, scope | 12 |
-| 06 | Operators — Ternary, pre/post increment, advanced increment | 5 |
-| 07 | If/Else — Conditionals and interview-style problems | 10 |
+| 04 | JavaScript Concepts — var/let/const, functions, hoisting, scope | 13 |
+| 06 | Operators — Arithmetic, ternary, type, increment/decrement, null operators | 9 |
+| 07 | If/Else — Conditionals, real-world examples, interview-style problems | 11 |
 | 08 | Switch Statement — Cases, break, default, grouping | 9 |
 | 09 | User Input — Node readline, prompt-sync | 3 |
 | 10 | Loops — For, while, do-while, for...of/in, forEach | 12 |
-| 11 | Arrays — Iteration and transformation | 9 |
+| 11 | Arrays — CRUD, access, search, iterate, transform, slice, concat | 13 |
+| 12 | Functions — Types, parameters, return types, template literals, arrow functions | 8 |
 
 ## How to Run
 
@@ -33,4 +34,4 @@ No dependencies or build tools needed.
 
 ## Purpose
 
-This repo covers the JavaScript language features needed before diving into Playwright test automation. Topics progress from basic syntax through operators.
+This repo covers the JavaScript language features needed before diving into Playwright test automation. Topics progress from basic syntax through functions. 87 files across 11 chapters (note: chapter 05 does not exist).
