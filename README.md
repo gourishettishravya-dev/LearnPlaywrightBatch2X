@@ -16,7 +16,7 @@ A structured JavaScript fundamentals course — the prerequisite for learning Pl
 | 09 | User Input — Node readline, prompt-sync | 3 |
 | 10 | Loops — For, while, do-while, for...of/in, forEach | 12 |
 | 11 | Arrays — CRUD, access, search, iterate, transform, slice, concat | 13 |
-| 12 | Functions — Types, parameters, return types, template literals, arrow functions | 8 |
+| 12 | Functions — Types, parameters, return types, template literals, arrow functions, IIFE, closures, higher-order & pure functions | 22 |
 
 ## How to Run
 
@@ -34,4 +34,4 @@ No dependencies or build tools needed.
 
 ## Purpose
 
-This repo covers the JavaScript language features needed before diving into Playwright test automation. Topics progress from basic syntax through functions. 87 files across 11 chapters (note: chapter 05 does not exist).
+This repo covers the JavaScript language features needed before diving into Playwright test automation. Topics progress from basic syntax through advanced function concepts. **100 JavaScript files** across **11 chapters** (note: chapter 05 does not exist).
