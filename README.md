@@ -1,37 +1,64 @@
 # Learn Playwright Batch 2X
 
-A structured JavaScript fundamentals course — the prerequisite for learning Playwright automation testing.
+> JavaScript fundamentals course — the prerequisite for Playwright automation testing.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Table of Contents
+
+- [Chapters](#chapters)
+- [Getting Started](#getting-started)
+- [How to Run](#how-to-run)
+- [Reference](#reference)
+- [Purpose](#purpose)
 
 ## Chapters
 
-| Chapter | Topic | Files |
-|---------|-------|-------|
+| # | Topic | Files |
+|---|-------|------:|
 | 01 | JavaScript Basics — Hello World, process object, commands, hot code | 4 |
-| 02 | JavaScript Concepts — Variable declaration (`var`) | 1 |
-| 03 | Identifiers & Literals — Naming rules, conventions, comments, VS Code shortcuts | 4 |
-| 04 | JavaScript Concepts — var/let/const, functions, hoisting, scope | 13 |
-| 06 | Operators — Arithmetic, ternary, type, increment/decrement, null operators | 9 |
-| 07 | If/Else — Conditionals, real-world examples, interview-style problems | 11 |
+| 02 | Variable Declaration (`var`) | 1 |
+| 03 | Identifiers & Literals — Naming rules, conventions, comments, VS Code shortcuts | 3 JS + 1 MD |
+| 04 | `var`/`let`/`const`, functions, hoisting, scope | 13 |
+| 06 | Operators — Arithmetic, ternary, type, increment/decrement, nullish | 9 |
+| 07 | If/Else — Conditionals, real-world examples, interview problems | 11 |
 | 08 | Switch Statement — Cases, break, default, grouping | 9 |
-| 09 | User Input — Node readline, prompt-sync | 3 |
-| 10 | Loops — For, while, do-while, for...of/in, forEach | 12 |
+| 09 | User Input — Node `readline`, `prompt-sync` | 3 |
+| 10 | Loops — `for`, `while`, `do-while`, `for...of`/`in`, `forEach` | 12 |
 | 11 | Arrays — CRUD, access, search, iterate, transform, slice, concat | 13 |
-| 12 | Functions — Types, parameters, return types, template literals, arrow functions, IIFE, closures, higher-order & pure functions | 22 |
+| 12 | Functions — Types, parameters, return values, arrow functions, IIFE, closures, higher-order & pure functions | 22 |
+| 13 | Strings — Methods, manipulation, immutability, template literals | 6 |
+
+> **Note:** Chapter 05 does not exist.
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v12 or later)
+- A code editor (VS Code recommended)
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/LEARNPLAYWRIGHTBATCH2X.git
+cd LEARNPLAYWRIGHTBATCH2X
+```
+
+No dependencies or build tools needed — all files are standalone JavaScript.
 
 ## How to Run
-
-All files are standalone JavaScript and require [Node.js](https://nodejs.org/).
 
 ```bash
 node chapter_01_Basics/01_Basics.js
 ```
 
-No dependencies or build tools needed.
-
 ## Reference
 
-- `chapter_03/VS_Code_shortcuts_windows.md` — Default VS Code keyboard shortcuts for Windows.
+- `chapter_03_Identifier_Literals/VS_Code_shortcuts_windows.md` — Default VS Code keyboard shortcuts for Windows.
 
 ## Purpose
 
-This repo covers the JavaScript language features needed before diving into Playwright test automation. Topics progress from basic syntax through advanced function concepts. **100 JavaScript files** across **11 chapters** (note: chapter 05 does not exist).
+This repository covers the JavaScript language features needed before diving into Playwright test automation. Topics progress from basic syntax through advanced function concepts. **106 JavaScript files** across **12 chapters**.
