@@ -31,6 +31,8 @@
 | 12 | Functions — Types, parameters, return values, arrow functions, IIFE, closures, higher-order & pure functions | 22 |
 | 13 | Strings — Methods, manipulation, immutability, template literals | 8 |
 | 14 | Objects — Creation, real-world usage, primitive vs reference, destructuring, spread, GET/SET, interview problems | 14 |
+| 15 | 2D Arrays — Creation, iteration, real-world examples, patterns, functions | 7 JS + 1 CSV |
+| 16 | Callbacks — Sync/Async callbacks, callback hell, parameters, return values | 11 |
 
 > **Note:** Chapter 05 does not exist.
 
@@ -62,4 +64,4 @@ node chapter_01_Basics/01_Basics.js
 
 ## Purpose
 
-This repository covers the JavaScript language features needed before diving into Playwright test automation. Topics progress from basic syntax through advanced function and object concepts. **122 JavaScript files** across **13 chapters**.
+This repository covers the JavaScript language features needed before diving into Playwright test automation. Topics progress from basic syntax through advanced function and object concepts. **140 JavaScript files** across **15 chapters**.
